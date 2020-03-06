@@ -1,6 +1,6 @@
 <h1 align="center">:sweet_potato:FARMERS:corn:</h1>
 
-<h4 align="center">텃밭이나 주말농장 정도의 소규모에서 생산된 잔여 작물들을 자유롭게 사고 팔 수 있는 사이트로 </br>
+<h4 align="center">텃밭이나 주말농장 정도의 소규모에서 생산된 작물들을 자유롭게 사고 팔 수 있는 사이트로 </br>
 	구매자와 판매자간에 효율적인 거래가 가능 </h4>
 	
 
