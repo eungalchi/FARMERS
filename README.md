@@ -34,7 +34,9 @@
 :small_orange_diamond:atom
 
 ## Run
-
+```
+> git clone https://github.com/eungalchi/FARMERS.git
+```
 
 ## 사용자 환경
 
