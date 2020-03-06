@@ -40,6 +40,7 @@
 
 #### pc
 <img src="https://user-images.githubusercontent.com/58911440/76083644-6eddad00-5ff1-11ea-81c8-11f775d5949e.png" width="35%" height="20%">
+<img src="https://user-images.githubusercontent.com/58911440/76085539-95054c00-5ff5-11ea-8f22-96fdf01448f0.png" width="35%" height="20%">
 
 #### mobile
 <img src="https://user-images.githubusercontent.com/58911440/76083646-700eda00-5ff1-11ea-8536-fc7b2f34e669.png" width="10%" height="10%">
